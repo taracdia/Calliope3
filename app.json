@@ -1,0 +1,12 @@
+{
+  "name": "Calliope3",
+  "displayName": "Calliope3",
+  "expo": {
+    "name": "Calliope3",
+    "slug": "Calliope3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
